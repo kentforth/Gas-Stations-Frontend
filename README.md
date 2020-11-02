@@ -1,4 +1,4 @@
-# Gas Station
+# Gas Stations
 
 Project For Managing Cars and Gas Stations
 
